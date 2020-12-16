@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8343acff-d398-4138-9ac2-3579188ff69e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.eslintcache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/ekzamen-react.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/action.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/app/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/app/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/auth/register/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/auth/register/register.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/auth/sign-in/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/auth/sign-in/sign-in.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/footer/footer.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/footer/footer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/header/header.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/header/header.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/main/carousel/carousel.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/main/category/category.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/main/category/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/main/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/main/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/main/products/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/main/products/product-items/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/main/products/product-items/product-items.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/main/products/products.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/pagination/pagination.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/reduce/list-products.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/server-detail/product-detail.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/service.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/store.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1lgAjLbK4jANwJ1mEWDTLJFkHMC" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../hospital" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2020.3\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="npm.npm start">
+    <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
+      <method v="2" />
+    </configuration>
+    <configuration name="npm start" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8343acff-d398-4138-9ac2-3579188ff69e" name="Default Changelist" comment="" />
+      <created>1608008494988</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1608008494988</updated>
+      <workItem from="1608008498314" duration="29906000" />
+      <workItem from="1608046303758" duration="9657000" />
+      <workItem from="1608107590329" duration="3830000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>
