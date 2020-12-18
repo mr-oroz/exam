@@ -1,46 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8343acff-d398-4138-9ac2-3579188ff69e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.eslintcache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/ekzamen-react.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/action.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/app/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/app/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/auth/register/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/auth/register/register.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/auth/sign-in/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/auth/sign-in/sign-in.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/footer/footer.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/footer/footer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/header/header.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/header/header.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/main/carousel/carousel.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/main/category/category.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/main/category/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/main/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/main/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/main/products/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/main/products/product-items/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/main/products/product-items/product-items.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/main/products/products.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/pagination/pagination.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/reduce/list-products.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/server-detail/product-detail.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/service.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/store.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
-    </list>
+    <list default="true" id="8343acff-d398-4138-9ac2-3579188ff69e" name="Default Changelist" comment="first" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -99,8 +60,16 @@
       <updated>1608008494988</updated>
       <workItem from="1608008498314" duration="29906000" />
       <workItem from="1608046303758" duration="9657000" />
-      <workItem from="1608107590329" duration="3830000" />
+      <workItem from="1608107590329" duration="4068000" />
     </task>
+    <task id="LOCAL-00001" summary="first">
+      <created>1608114305859</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1608114305859</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -117,5 +86,9 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first" />
+    <option name="LAST_COMMIT_MESSAGE" value="first" />
   </component>
 </project>

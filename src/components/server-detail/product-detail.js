@@ -1,48 +1,40 @@
-import React, {Component} from 'react';
-import {withRouter} from "react-router-dom";
-import {connect} from "react-redux";
-import {Card} from "react-bootstrap";
+import React, { Component } from 'react';
+import { withRouter } from "react-router-dom";
+import { connect } from "react-redux";
 
 
 class ProductDetail extends Component {
     state = {
-        item: {}
+        item: {},
+        loading: true
     }
 
     componentDidMount() {
+        this.getItem()
+    }
+
+    getItem = () => {
         const url = (new URLSearchParams(this.props.location.search)).get("url")
         fetch(url).then((res) => res.json()).then((data) => {
-                console.log(data)
-                this.setState({item: data})
-            }
+            this.setState({ item: data,loading:false })
+        }
         )
     }
 
     render() {
+        const { item,loading } = this.state
+        if (loading) {
+            return <p>Loading</p>
+        }
         return (
             <div className="container">
-                <div className='mt-2 col-lg-4 col-md-6 mb-4'>
-                    <Card className='h-100'>
-                        <Card.Img variant="top"
-                                  src={this.state.images[0].original}/>
-                        <Card.Body>
-                            <Card.Title>
-                                <a href='#'>{this.state.title}</a>
-                            </Card.Title>
-                            <h5>$24.99</h5>
-                            <Card.Text>
-                                Some quick example text to build on the card title and make up the bulk of
-                                the card's content.
-                            </Card.Text>
-                        </Card.Body>
-                        <Card.Footer>
-                            <small className='text-muted'>★ ★ ★ ★ ☆</small>
-                        </Card.Footer>
-                    </Card>
+                <div className='row'>
+                    <h2>{item.title}</h2>
+                    <img src={item.images[0].original}/>
                 </div>
             </div>
         );
     }
 }
 
-export default withRouter(connect(({data}) => ({data}))(ProductDetail));
+export default withRouter(connect(({ data }) => ({ data }))(ProductDetail));
