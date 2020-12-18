@@ -3,10 +3,13 @@ import { withRouter } from "react-router-dom";
 import { connect } from "react-redux";
 
 
+
 class ProductDetail extends Component {
     state = {
         item: {},
+
         loading: true
+
     }
 
     componentDidMount() {
